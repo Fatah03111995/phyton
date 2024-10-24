@@ -1,3 +1,3 @@
-import measuring_central as mc
+import measuring_dispersion as trial
 
-mc.show()
+trial.show()
